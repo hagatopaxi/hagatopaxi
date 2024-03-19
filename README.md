@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LegerG
 - 👀 I’m interested in DIYTech
 - 🌱 I’m currently learning Vue.JS and Sudoku pro tips
-- 💞️ I’m looking to collaborate on *insert mysteries*
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me : 
   * [Serially](https://www.linkedin.com/in/gwena%C3%ABl-l%C3%A9ger/)
   * [Recursively](https://github.com/LegerG/)
